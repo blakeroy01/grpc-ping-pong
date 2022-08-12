@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rZFR4B1nKRr3yG4fdyYPfl6hltc4Ymmc12rmm/lPfvY=",
+  "Source": "PingServer",
+  "BasePath": "_content/PingServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "PingPongClient";
+
+package returnStatus;
+
+service ReturnStatus {
+  // Sends a greeting
+  rpc RequestReturn (ReturnRequest) returns (ReturnReply);
+}
+
+message ReturnRequest {
+  bool opponentHit = 1;
+}
+
+message ReturnReply {
+  string message = 1;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UjLNKGlNbPR561rz5g/sG6j/a1Fp2Fb3+AhNpbjyGEA=",
+  "Source": "PongServer",
+  "BasePath": "_content/PongServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
